@@ -1,7 +1,7 @@
-# simple_shell #
-## PROJECT - ALX SOFTWARE ENGINEERING. ##
+# SIMPLE SHELL #
+## An ALX Software Engineering Project ##
 
-This is a simple shell project implemented in C programming language. A shell is a command-line interface that allows users to interact with the operating system by entering commands. This project aims to create a basic shell that can execute simple commands, handle input/output redirection, and support piping between commands.
+This project involves creating a straightforward shell using the C programming language. A shell serves as a text-based interface enabling users to communicate with the operating system through commands. The goal of this project is to develop a basic shell capable of executing simple commands, managing input/output redirection, and facilitating piping between commands.
 
 ### Compilation ###
 compile the Shell program this way:
